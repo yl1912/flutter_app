@@ -1,16 +1,16 @@
-# project1
+# ShopMall Flutter App
 
-A new Flutter project.
+Mobile e-commerce application built with Flutter.
 
-## Getting Started
+## Features
+- User authentication with Supabase
+- Product listing and search
+- Add to cart
+- Order management
+- Admin product management
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies
+- Flutter
+- Supabase
+- RESTful API
+- MVC Architecture

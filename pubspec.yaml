@@ -11,12 +11,28 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
   cupertino_icons: ^1.0.8
+
+  # ⭐ Supabase Auth, DB
+  supabase_flutter: ^2.6.0
+
+  # ⭐ HTTP để call API Resend
+  http: ^1.1.2
+
+  intl: ^0.20.2
+
+  # ⭐ Image picker (chọn ảnh từ gallery / camera)
+  image_picker: ^1.0.7
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
   flutter_lints: ^4.0.0
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/images/logo.png
